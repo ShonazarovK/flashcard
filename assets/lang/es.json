@@ -1,0 +1,13 @@
+{
+  "profile": "Perfil",
+  "intermediate": "Aprendiz intermedio",
+  "personal_details": "Detalles personales",
+  "language": "Idioma",
+  "dark_mode": "Modo oscuro",
+  "privacy_policy": "Política de privacidad",
+  "terms": "Términos y condiciones",
+  "support_email": "Correo de soporte",
+  "delete_account": "Eliminar cuenta",
+  "logout": "Cerrar sesión",
+  "version": "Versión 1.0.0"
+}
